@@ -1,0 +1,283 @@
+Cmp-Mod V01 Created by PcbNew   date = Sat 01 Apr 2017 02:16:23 IST
+
+BeginCmp
+TimeStamp = 58DE4889
+Path = /58DE498D
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Capacitors_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DE488F
+Path = /58DE4E8A
+Reference = C2;
+ValeurCmp = C2;
+IdModule  = Capacitors_THT:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DE4895
+Path = /58DE4F3C
+Reference = C3;
+ValeurCmp = C3;
+IdModule  = Capacitors_THT:CP_Radial_D6.3mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DE489B
+Path = /58DE4A51
+Reference = D1;
+ValeurCmp = D1;
+IdModule  = Diodes_THT:D_DO-201_P5.08mm_Vertical_KathodeUp;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DE48A1
+Path = /58DE4AC2
+Reference = D2;
+ValeurCmp = D2;
+IdModule  = Diodes_THT:D_DO-201_P5.08mm_Vertical_KathodeUp;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DE48A8
+Path = /58DE4654
+Reference = J1;
+ValeurCmp = BARREL_JACK;
+IdModule  = Connectors:BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DE48AE
+Path = /58DE4B47
+Reference = R1;
+ValeurCmp = R1;
+IdModule  = Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DE48B5
+Path = /58DE4C79
+Reference = RV1;
+ValeurCmp = POT_TRIM;
+IdModule  = Potentiometers:Potentiometer_Trimmer_Bourns_3296W;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DE48BC
+Path = /58DE4798
+Reference = U1;
+ValeurCmp = LM317T;
+IdModule  = TO_SOT_Packages_THT:TO-220_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DE5660
+Path = /58DE56D5
+Reference = C4;
+ValeurCmp = C4;
+IdModule  = Capacitors_THT:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DE5666
+Path = /58DE576E
+Reference = C5;
+ValeurCmp = C5;
+IdModule  = Capacitors_THT:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DE5672
+Path = /58DF08A7
+Reference = U2;
+ValeurCmp = TC7660;
+IdModule  = Housings_DIP:DIP-8_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DE5720
+Path = 
+Reference = REF**;
+ValeurCmp = SW_PUSH_x2_1;
+IdModule  = Buttons_Switches_THT:SW_PUSH_x2;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DE5726
+Path = 
+Reference = REF**;
+ValeurCmp = SW_PUSH_x2_2;
+IdModule  = Buttons_Switches_THT:SW_PUSH_x2;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DE5D6B
+Path = /58DE6355
+Reference = J2;
+ValeurCmp = J2;
+IdModule  = Connectors:PINHEAD1-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEA11E
+Path = /58DE9F22
+Reference = C6;
+ValeurCmp = C6;
+IdModule  = Capacitors_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEA124
+Path = /58DEA099
+Reference = C7;
+ValeurCmp = C7;
+IdModule  = Capacitors_THT:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEA141
+Path = /58DE87B0
+Reference = J3;
+ValeurCmp = JACK_TRS_6PINS;
+IdModule  = my_lib:Audio_Jack;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEA15F
+Path = /58DE7E50
+Reference = U3;
+ValeurCmp = OPA4228;
+IdModule  = Housings_DIP:DIP-14_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEA220
+Path = /58DEA005
+Reference = R2;
+ValeurCmp = R2;
+IdModule  = Resistors_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEA226
+Path = /58DEA060
+Reference = R3;
+ValeurCmp = R3;
+IdModule  = Resistors_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEAA81
+Path = /58DF3BE4
+Reference = C10;
+ValeurCmp = C10;
+IdModule  = Capacitors_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEAA87
+Path = /58DF3C7F
+Reference = C11;
+ValeurCmp = C11;
+IdModule  = Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEAA8D
+Path = /58DF41D2
+Reference = C12;
+ValeurCmp = C12;
+IdModule  = Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEAA99
+Path = /58DF33DD
+Reference = R4;
+ValeurCmp = R4;
+IdModule  = Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEAA9F
+Path = /58DF32DF
+Reference = R5;
+ValeurCmp = R5;
+IdModule  = Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEAAA5
+Path = /58DF3386
+Reference = R6;
+ValeurCmp = R6;
+IdModule  = Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEAAAB
+Path = /58DF41C6
+Reference = R7;
+ValeurCmp = R7;
+IdModule  = Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEAAB1
+Path = /58DF41BA
+Reference = R8;
+ValeurCmp = R8;
+IdModule  = Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEAAB7
+Path = /58DF41C0
+Reference = R9;
+ValeurCmp = R9;
+IdModule  = Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEAC92
+Path = /58DF445B
+Reference = C14;
+ValeurCmp = C14;
+IdModule  = Capacitors_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEAC98
+Path = /58DF4533
+Reference = C15;
+ValeurCmp = C15;
+IdModule  = Capacitors_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEACF5
+Path = /58DF9073
+Reference = C8;
+ValeurCmp = C8;
+IdModule  = Capacitors_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEB2BF
+Path = /58DF9134
+Reference = C9;
+ValeurCmp = C9;
+IdModule  = Capacitors_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DEB2C5
+Path = /58DF41D8
+Reference = C13;
+ValeurCmp = C13;
+IdModule  = Capacitors_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+EndListe
